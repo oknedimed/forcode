@@ -1,2 +1,0 @@
-# forcode
-<!DOCTYPE HTML>
